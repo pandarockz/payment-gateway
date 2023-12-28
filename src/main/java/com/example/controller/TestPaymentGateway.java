@@ -6,7 +6,6 @@ public class TestPaymentGateway {
      
             TestPaymentGateway.someStaticMethod();
     }
-
     private static void someStaticMethod() {
     }
 }
